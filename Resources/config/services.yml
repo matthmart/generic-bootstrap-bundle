@@ -1,0 +1,7 @@
+parameters:
+#    eutech_generic_bootstrap.example.class: Eutech\Bundle\GenericBootstrapBundle\Example
+
+services:
+#    eutech_generic_bootstrap.example:
+#        class: %eutech_generic_bootstrap.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

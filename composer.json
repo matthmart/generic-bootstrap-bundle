@@ -1,0 +1,21 @@
+{
+    "version": "1.0.0",
+    "name": "eutech/generic-bootstrap-bundle",
+    "description": "Include Bootstrap and jQuery into Resources folder to allow the use of Assetic. A generic layout file is also provided.",
+    "type": "symfony-bundle",
+    "authors": [
+        {
+            "name": "Matthieu Martin",
+            "email": "m.martin@eutech-ssii.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": { "Eutech\\Bundle\\GenericBootstrapBundle": "" }
+    },
+    "target-dir": "Eutech/Bundle/GenericBootstrapBundle",
+
+    "require": {
+        "twbs/bootstrap": "3.0.*",
+        "components/jquery": "1.10.*"
+    }
+}
