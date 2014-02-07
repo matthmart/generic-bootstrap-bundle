@@ -15,7 +15,7 @@
     "target-dir": "Eutech/Bundle/GenericBootstrapBundle",
 
     "require": {
-        "twbs/bootstrap": "3.0.*",
+        "twbs/bootstrap": "3.*",
         "components/jquery": "1.10.*"
     }
 }
